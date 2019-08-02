@@ -1,0 +1,5 @@
+[INFO]:SocketServer start to initialize
+[INFO]:Created SeverSocket on 0.0.0.0/0.0.0.0:55533
+[INFO]:/127.0.0.1:58540comes in
+[INFO]:[/127.0.0.1:58540]:verifyToken
+[INFO]:[/127.0.0.1:58540]:request=verifyToken&token=t&uid=s

@@ -1,0 +1,9 @@
+[INFO]:SocketServer start to initialize
+[INFO]:Created SeverSocket on 0.0.0.0/0.0.0.0:55533
+[INFO]:/127.0.0.1:61039comes in
+[INFO]:[/127.0.0.1:61039]:preLogin
+[INFO]:[/127.0.0.1:61039]:success
+[INFO]:/127.0.0.1:61045comes in
+[INFO]:[/127.0.0.1:61045]:login
+[INFO]:[/127.0.0.1:61045]:success
+[INFO]:/127.0.0.1:64221comes in

@@ -1,0 +1,132 @@
+[INFO]:SocketServer start to initialize
+[INFO]:Created SeverSocket on 0.0.0.0/0.0.0.0:55533
+[INFO]:/127.0.0.1:53004comes in
+[INFO]:[/127.0.0.1:53004]:but_no_request_at_all
+[INFO]:[/127.0.0.1:53004]:preLogin
+[INFO]:/127.0.0.1:53007comes in
+[INFO]:[/127.0.0.1:53007]:preLogin
+[INFO]:/127.0.0.1:53008comes in
+[INFO]:[/127.0.0.1:53008]:preLogin
+[INFO]:/127.0.0.1:53009comes in
+[INFO]:[/127.0.0.1:53009]:preLogin
+[INFO]:/127.0.0.1:53010comes in
+[INFO]:[/127.0.0.1:53010]:preLogin
+[INFO]:/127.0.0.1:53011comes in
+[INFO]:[/127.0.0.1:53011]:preLogin
+[INFO]:/127.0.0.1:53012comes in
+[INFO]:[/127.0.0.1:53012]:preLogin
+[INFO]:/127.0.0.1:53014comes in
+[INFO]:[/127.0.0.1:53014]:preLogin
+[INFO]:/127.0.0.1:53015comes in
+[INFO]:[/127.0.0.1:53015]:preLogin
+[INFO]:/127.0.0.1:53016comes in
+[INFO]:[/127.0.0.1:53016]:preLogin
+[INFO]:/127.0.0.1:53017comes in
+[INFO]:[/127.0.0.1:53017]:preLogin
+[INFO]:/127.0.0.1:53018comes in
+[INFO]:[/127.0.0.1:53018]:preLogin
+[INFO]:/127.0.0.1:53019comes in
+[INFO]:[/127.0.0.1:53019]:preLogin
+[INFO]:/127.0.0.1:53020comes in
+[INFO]:[/127.0.0.1:53020]:preLogin
+[INFO]:/127.0.0.1:53021comes in
+[INFO]:[/127.0.0.1:53021]:preLogin
+[INFO]:/127.0.0.1:53022comes in
+[INFO]:[/127.0.0.1:53022]:preLogin
+[INFO]:/127.0.0.1:53023comes in
+[INFO]:[/127.0.0.1:53023]:preLogin
+[INFO]:/127.0.0.1:53024comes in
+[INFO]:[/127.0.0.1:53024]:preLogin
+[INFO]:/127.0.0.1:53025comes in
+[INFO]:[/127.0.0.1:53025]:preLogin
+[INFO]:/127.0.0.1:53026comes in
+[INFO]:[/127.0.0.1:53026]:preLogin
+[INFO]:/127.0.0.1:53027comes in
+[INFO]:[/127.0.0.1:53027]:preLogin
+[INFO]:/127.0.0.1:53028comes in
+[INFO]:[/127.0.0.1:53028]:preLogin
+[INFO]:/127.0.0.1:53029comes in
+[INFO]:[/127.0.0.1:53029]:preLogin
+[INFO]:/127.0.0.1:53032comes in
+[INFO]:[/127.0.0.1:53032]:preLogin
+[INFO]:/127.0.0.1:53033comes in
+[INFO]:[/127.0.0.1:53033]:preLogin
+[INFO]:/127.0.0.1:53034comes in
+[INFO]:[/127.0.0.1:53034]:preLogin
+[INFO]:/127.0.0.1:53035comes in
+[INFO]:[/127.0.0.1:53035]:preLogin
+[INFO]:/127.0.0.1:53036comes in
+[INFO]:[/127.0.0.1:53036]:preLogin
+[INFO]:/127.0.0.1:53037comes in
+[INFO]:[/127.0.0.1:53037]:preLogin
+[INFO]:/127.0.0.1:53038comes in
+[INFO]:[/127.0.0.1:53038]:preLogin
+[INFO]:/127.0.0.1:53039comes in
+[INFO]:[/127.0.0.1:53039]:preLogin
+[INFO]:/127.0.0.1:53040comes in
+[INFO]:[/127.0.0.1:53040]:preLogin
+[INFO]:/127.0.0.1:53041comes in
+[INFO]:[/127.0.0.1:53041]:preLogin
+[INFO]:/127.0.0.1:53042comes in
+[INFO]:[/127.0.0.1:53042]:preLogin
+[INFO]:/127.0.0.1:53043comes in
+[INFO]:[/127.0.0.1:53043]:preLogin
+[INFO]:/127.0.0.1:53045comes in
+[INFO]:[/127.0.0.1:53045]:preLogin
+[INFO]:/127.0.0.1:53046comes in
+[INFO]:[/127.0.0.1:53046]:preLogin
+[INFO]:/127.0.0.1:53047comes in
+[INFO]:[/127.0.0.1:53047]:preLogin
+[INFO]:/127.0.0.1:53048comes in
+[INFO]:[/127.0.0.1:53048]:preLogin
+[INFO]:/127.0.0.1:53050comes in
+[INFO]:[/127.0.0.1:53050]:preLogin
+[INFO]:/127.0.0.1:53051comes in
+[INFO]:[/127.0.0.1:53051]:preLogin
+[INFO]:/127.0.0.1:53052comes in
+[INFO]:[/127.0.0.1:53052]:preLogin
+[INFO]:/127.0.0.1:53053comes in
+[INFO]:[/127.0.0.1:53053]:preLogin
+[INFO]:/127.0.0.1:53054comes in
+[INFO]:[/127.0.0.1:53054]:preLogin
+[INFO]:/127.0.0.1:53055comes in
+[INFO]:[/127.0.0.1:53055]:preLogin
+[INFO]:/127.0.0.1:53056comes in
+[INFO]:[/127.0.0.1:53056]:preLogin
+[INFO]:/127.0.0.1:53057comes in
+[INFO]:[/127.0.0.1:53057]:preLogin
+[INFO]:/127.0.0.1:53058comes in
+[INFO]:[/127.0.0.1:53058]:preLogin
+[INFO]:/127.0.0.1:53059comes in
+[INFO]:[/127.0.0.1:53059]:preLogin
+[INFO]:/127.0.0.1:53060comes in
+[INFO]:[/127.0.0.1:53060]:preLogin
+[INFO]:/127.0.0.1:53061comes in
+[INFO]:[/127.0.0.1:53061]:preLogin
+[INFO]:/127.0.0.1:53062comes in
+[INFO]:[/127.0.0.1:53062]:preLogin
+[INFO]:/127.0.0.1:53063comes in
+[INFO]:[/127.0.0.1:53063]:preLogin
+[INFO]:/127.0.0.1:53065comes in
+[INFO]:[/127.0.0.1:53065]:preLogin
+[INFO]:/127.0.0.1:53066comes in
+[INFO]:[/127.0.0.1:53066]:preLogin
+[INFO]:/127.0.0.1:53068comes in
+[INFO]:[/127.0.0.1:53068]:preLogin
+[INFO]:/127.0.0.1:53070comes in
+[INFO]:[/127.0.0.1:53070]:preLogin
+[INFO]:/127.0.0.1:53071comes in
+[INFO]:[/127.0.0.1:53071]:preLogin
+[INFO]:/127.0.0.1:53072comes in
+[INFO]:[/127.0.0.1:53072]:preLogin
+[INFO]:/127.0.0.1:53073comes in
+[INFO]:[/127.0.0.1:53073]:preLogin
+[INFO]:/127.0.0.1:53074comes in
+[INFO]:[/127.0.0.1:53074]:preLogin
+[INFO]:/127.0.0.1:53075comes in
+[INFO]:[/127.0.0.1:53075]:preLogin
+[INFO]:/127.0.0.1:53077comes in
+[INFO]:[/127.0.0.1:53077]:preLogin
+[INFO]:/127.0.0.1:53078comes in
+[INFO]:[/127.0.0.1:53078]:preLogin
+[INFO]:/127.0.0.1:53079comes in

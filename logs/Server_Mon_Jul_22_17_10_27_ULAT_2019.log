@@ -1,0 +1,16 @@
+[INFO]:SocketServer start to initialize
+[INFO]:Created SeverSocket on 0.0.0.0/0.0.0.0:55533
+[INFO]:/127.0.0.1:54559comes in
+[INFO]:[/127.0.0.1:54559]:verifyToken
+[INFO]:[/127.0.0.1:54559]:verifyToken
+[INFO]:[/127.0.0.1:54559]:applyAddFamily
+[INFO]:[/127.0.0.1:54559]:applyAddFamily
+[INFO]:[/127.0.0.1:54559]:verifyToken
+[INFO]:[/127.0.0.1:54559]:verifyToken
+[INFO]:[/127.0.0.1:54559]:verifyToken
+[INFO]:/127.0.0.1:54716comes in
+[INFO]:[/127.0.0.1:54716]:verifyToken
+[INFO]:[/127.0.0.1:54716]:applyAddFamily
+[INFO]:[/127.0.0.1:54716]:verifyToken
+[INFO]:[/127.0.0.1:54716]:acceptAddFamily
+[INFO]:[/127.0.0.1:54716]:acceptAddFamily

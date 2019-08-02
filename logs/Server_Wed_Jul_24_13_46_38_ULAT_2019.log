@@ -1,0 +1,11 @@
+[INFO]:SocketServer start to initialize
+[INFO]:Created SeverSocket on 0.0.0.0/0.0.0.0:55533
+[INFO]:/127.0.0.1:59580comes in
+[INFO]:[/127.0.0.1:59580]:but_no_request_at_all
+[INFO]:[/127.0.0.1:59580]:addNewBox
+[INFO]:/127.0.0.1:59642comes in
+[INFO]:[/127.0.0.1:59642]:addNewBox
+[INFO]:[/127.0.0.1:59642]:addNewBox
+[INFO]:[/127.0.0.1:59642]:addNewBox
+[INFO]:/127.0.0.1:59814comes in
+[INFO]:[/127.0.0.1:59814]:addNewBox

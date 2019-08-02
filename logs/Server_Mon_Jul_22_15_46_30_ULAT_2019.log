@@ -1,0 +1,7 @@
+[INFO]:SocketServer start to initialize
+[INFO]:Created SeverSocket on 0.0.0.0/0.0.0.0:55533
+[INFO]:/127.0.0.1:60707comes in
+[INFO]:[/127.0.0.1:60707]:applyAddFamily
+[INFO]:[/127.0.0.1:60707]:preLogin
+[INFO]:[/127.0.0.1:60707]:login
+[INFO]:[/127.0.0.1:60707]:verifyToken

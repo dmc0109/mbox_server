@@ -1,0 +1,10 @@
+[INFO]:SocketServer start to initialize
+[INFO]:Created SeverSocket on 0.0.0.0/0.0.0.0:55533
+[INFO]:/127.0.0.1:52180comes in
+[INFO]:/127.0.0.1:52237comes in
+[INFO]:[/127.0.0.1:52237]:verifyToken
+[INFO]:/127.0.0.1:52258comes in
+[INFO]:/127.0.0.1:52291comes in
+[INFO]:[/127.0.0.1:52291]:verifyToken
+[INFO]:[/127.0.0.1:52291]:verifyToken
+[INFO]:[/127.0.0.1:52291]:verifyToken

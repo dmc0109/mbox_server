@@ -1,0 +1,40 @@
+[INFO]:SocketServer start to initialize
+[INFO]:Created SeverSocket on 0.0.0.0/0.0.0.0:55533
+[INFO]:/127.0.0.1:59525comes in
+[INFO]:[/127.0.0.1:59525]:preRegister
+[INFO]:[/127.0.0.1:59525]:success
+[INFO]:/127.0.0.1:59560comes in
+[INFO]:[/127.0.0.1:59560]:register
+[INFO]:[/127.0.0.1:59560]:success
+[INFO]:/127.0.0.1:59746comes in
+[INFO]:[/127.0.0.1:59746]:preLogin
+[INFO]:[/127.0.0.1:59746]:success
+[INFO]:/127.0.0.1:59779comes in
+[INFO]:[/127.0.0.1:59779]:preRegister
+[INFO]:[/127.0.0.1:59779]:require_user_name
+[INFO]:/127.0.0.1:59807comes in
+[INFO]:[/127.0.0.1:59807]:preRegister
+[INFO]:[/127.0.0.1:59807]:success
+[INFO]:/127.0.0.1:59826comes in
+[INFO]:[/127.0.0.1:59826]:preRegister
+[INFO]:[/127.0.0.1:59826]:user_name_has_been_used
+[INFO]:/127.0.0.1:59938comes in
+[INFO]:[/127.0.0.1:59938]:preLogin
+[INFO]:[/127.0.0.1:59938]:success
+[INFO]:/127.0.0.1:60023comes in
+[INFO]:[/127.0.0.1:60023]:login
+[INFO]:[/127.0.0.1:60023]:success
+[INFO]:/127.0.0.1:60089comes in
+[INFO]:[/127.0.0.1:60089]:preLogin
+[INFO]:[/127.0.0.1:60089]:success
+[INFO]:/127.0.0.1:60190comes in
+[INFO]:[/127.0.0.1:60190]:login
+[INFO]:[/127.0.0.1:60190]:success
+[INFO]:/127.0.0.1:60650comes in
+[INFO]:[/127.0.0.1:60650]:preLogin
+[INFO]:[/127.0.0.1:60650]:success
+[INFO]:/127.0.0.1:61707comes in
+[INFO]:[/127.0.0.1:61707]:preRegister
+[INFO]:[/127.0.0.1:61707]:success
+[INFO]:/127.0.0.1:51798comes in
+[INFO]:[/127.0.0.1:51798]:hjd

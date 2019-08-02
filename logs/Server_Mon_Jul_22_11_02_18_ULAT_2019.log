@@ -1,0 +1,13 @@
+[INFO]:SocketServer start to initialize
+[INFO]:Created SeverSocket on 0.0.0.0/0.0.0.0:55533
+[INFO]:/127.0.0.1:52852comes in
+[INFO]:[/127.0.0.1:52852]:but_no_request_at_all
+[INFO]:/127.0.0.1:52994comes in
+[INFO]:/127.0.0.1:52996comes in
+[INFO]:[/127.0.0.1:52852]:preLogin
+[INFO]:[/127.0.0.1:52852]:preLogin
+[INFO]:[/127.0.0.1:52852]:but_no_request_at_all
+[INFO]:[/127.0.0.1:52852]:but_no_request_at_all
+[INFO]:[/127.0.0.1:52852]:verifyToken
+[INFO]:[/127.0.0.1:52852]:verifyToken
+[INFO]:[/127.0.0.1:52852]:verifyToken

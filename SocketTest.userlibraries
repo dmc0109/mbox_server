@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Dart SDK">
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/async" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/cli" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/collection" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/convert" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/core" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/developer" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/ffi" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/html" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/indexed_db" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/io" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/isolate" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/js" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/js_util" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/math" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/mirrors" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/svg" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/typed_data" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/web_audio" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/web_gl" />
+    <archive path="C:/Program Files/Dart/dart-sdk/lib/web_sql" />
+  </library>
+  <library name="mysql-connector-java-8.0.16">
+    <archive path="C:/Users/13506/IdeaProjects/SocketTest/lib/mysql-connector-java-8.0.16.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/src.zip" />
+    <archive path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx-swt.jar" />
+    <archive path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.web.jar" />
+    <archive path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.base.jar" />
+    <archive path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.fxml.jar" />
+    <archive path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.media.jar" />
+    <archive path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.swing.jar" />
+    <archive path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.controls.jar" />
+    <archive path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.graphics.jar" />
+  </library>
+</eclipse-userlibraries>
+
